@@ -1,5 +1,6 @@
 const express = require('express'); 
 const shortid = require('shortid');
+const cors = require('cors');
 
 
 // Creating a server calling express and will give back a server instance
